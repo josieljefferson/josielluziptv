@@ -68,3 +68,70 @@
 2026-02-12 04:51:38,358 - ERROR - Falha após 3 tentativas: https://m3u4u.com/epg/jq2zy9epr3bwxmgwyxr5
 2026-02-12 04:51:38,358 - INFO - Downloads concluídos. Sucessos: 9, Falhas: 3
 2026-02-12 04:51:38,359 - WARNING - Atenção: 3 arquivos falharam no download
+2026-02-12 01:52:21,566 - INFO - Limpando arquivos antigos em /home/runner/work/josielluziptv/josielluziptv...
+2026-02-12 01:52:21,566 - INFO - Arquivo removido: brazil3.xml.gz
+2026-02-12 01:52:21,566 - INFO - Arquivo removido: playlist.m3u
+2026-02-12 01:52:21,567 - INFO - Arquivo removido: epg_ripper_BR1.xml.gz
+2026-02-12 01:52:21,567 - INFO - Arquivo removido: portugal1.xml.gz
+2026-02-12 01:52:21,567 - INFO - Arquivo removido: brazil4.xml.gz
+2026-02-12 01:52:21,568 - INFO - Arquivo removido: brazil2.xml.gz
+2026-02-12 01:52:21,568 - INFO - Arquivo removido: epg_ripper_PT1.xml.gz
+2026-02-12 01:52:21,568 - INFO - Arquivo removido: portugal2.xml.gz
+2026-02-12 01:52:21,569 - INFO - Arquivo removido: brazil1.xml.gz
+2026-02-12 01:52:21,569 - INFO - Iniciando downloads...
+2026-02-12 01:52:21,569 - INFO - Tentativa 1 de 3: Baixando de: https://raw.githubusercontent.com/josieljefferson/josieljefferson.github.io/refs/heads/main/playlists/playlist.m3u
+2026-02-12 01:52:21,570 - INFO - Tentativa 1 de 3: Baixando de: https://www.open-epg.com/files/brazil1.xml.gz
+2026-02-12 01:52:21,570 - INFO - Tentativa 1 de 3: Baixando de: https://www.open-epg.com/files/brazil2.xml.gz
+2026-02-12 01:52:21,570 - INFO - Tentativa 1 de 3: Baixando de: https://www.open-epg.com/files/brazil3.xml.gz
+2026-02-12 01:52:21,571 - INFO - Tentativa 1 de 3: Baixando de: https://www.open-epg.com/files/brazil4.xml.gz
+2026-02-12 01:52:21,719 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/playlist.m3u (70795 bytes)
+2026-02-12 01:52:21,719 - INFO - Hash MD5 do arquivo: 2c087d63a0417aff6380561f76163af0
+2026-02-12 01:52:21,720 - INFO - Tentativa 1 de 3: Baixando de: https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz
+2026-02-12 01:52:21,934 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/epg_ripper_BR1.xml.gz (1428901 bytes)
+2026-02-12 01:52:21,937 - INFO - Hash MD5 do arquivo: bad6f9c85e22ae72c4c03676715f70e9
+2026-02-12 01:52:21,938 - INFO - Tentativa 1 de 3: Baixando de: https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz
+2026-02-12 01:52:22,105 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/epg_ripper_PT1.xml.gz (1464645 bytes)
+2026-02-12 01:52:22,107 - INFO - Hash MD5 do arquivo: 154e44ec46944e5cb0518bf98f8dc218
+2026-02-12 01:52:22,108 - INFO - Tentativa 1 de 3: Baixando de: https://m3u4u.com/epg/3wk1y24kx7uzdevxygz7
+2026-02-12 01:52:22,614 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/brazil2.xml.gz (66849 bytes)
+2026-02-12 01:52:22,614 - INFO - Hash MD5 do arquivo: ed7ef4dc32997fb86a08147095c9cba1
+2026-02-12 01:52:22,615 - INFO - Tentativa 1 de 3: Baixando de: https://m3u4u.com/epg/782dyqdrqkh1xegen4zp
+2026-02-12 01:52:22,903 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/brazil4.xml.gz (613814 bytes)
+2026-02-12 01:52:22,905 - INFO - Hash MD5 do arquivo: a6c6a01ef84ef9b06621e4be9dd0d66c
+2026-02-12 01:52:22,906 - INFO - Tentativa 1 de 3: Baixando de: https://m3u4u.com/epg/jq2zy9epr3bwxmgwyxr5
+2026-02-12 01:52:22,922 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/brazil1.xml.gz (881327 bytes)
+2026-02-12 01:52:22,924 - INFO - Hash MD5 do arquivo: 52117ac9787f3edcb22ef51198be9747
+2026-02-12 01:52:22,925 - INFO - Tentativa 1 de 3: Baixando de: https://www.open-epg.com/files/portugal1.xml.gz
+2026-02-12 01:52:23,003 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/brazil3.xml.gz (545305 bytes)
+2026-02-12 01:52:23,004 - INFO - Hash MD5 do arquivo: 29d45ce6e9319c8fe183e242d1e91e55
+2026-02-12 01:52:23,005 - INFO - Tentativa 1 de 3: Baixando de: https://www.open-epg.com/files/portugal2.xml.gz
+2026-02-12 01:52:24,321 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/portugal1.xml.gz (565674 bytes)
+2026-02-12 01:52:24,322 - INFO - Hash MD5 do arquivo: df74454fbc494de0bb9fe2b85797e8bb
+2026-02-12 01:52:24,345 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/portugal2.xml.gz (593857 bytes)
+2026-02-12 01:52:24,346 - INFO - Hash MD5 do arquivo: c728df14a8d0899ec37f835b1dca282a
+2026-02-12 01:52:32,276 - ERROR - Erro na tentativa 1 de 3: HTTPSConnectionPool(host='m3u4u.com', port=443): Read timed out. (read timeout=10)
+2026-02-12 01:52:32,276 - INFO - Aguardando 2 segundos antes de tentar novamente...
+2026-02-12 01:52:32,681 - ERROR - Erro na tentativa 1 de 3: HTTPSConnectionPool(host='m3u4u.com', port=443): Read timed out. (read timeout=10)
+2026-02-12 01:52:32,681 - INFO - Aguardando 2 segundos antes de tentar novamente...
+2026-02-12 01:52:32,978 - ERROR - Erro na tentativa 1 de 3: HTTPSConnectionPool(host='m3u4u.com', port=443): Read timed out. (read timeout=10)
+2026-02-12 01:52:32,978 - INFO - Aguardando 2 segundos antes de tentar novamente...
+2026-02-12 01:52:34,278 - INFO - Tentativa 2 de 3: Baixando de: https://m3u4u.com/epg/3wk1y24kx7uzdevxygz7
+2026-02-12 01:52:34,684 - INFO - Tentativa 2 de 3: Baixando de: https://m3u4u.com/epg/782dyqdrqkh1xegen4zp
+2026-02-12 01:52:34,981 - INFO - Tentativa 2 de 3: Baixando de: https://m3u4u.com/epg/jq2zy9epr3bwxmgwyxr5
+2026-02-12 01:52:44,351 - ERROR - Erro na tentativa 2 de 3: HTTPSConnectionPool(host='m3u4u.com', port=443): Read timed out. (read timeout=10)
+2026-02-12 01:52:44,351 - INFO - Aguardando 4 segundos antes de tentar novamente...
+2026-02-12 01:52:44,757 - ERROR - Erro na tentativa 2 de 3: HTTPSConnectionPool(host='m3u4u.com', port=443): Read timed out. (read timeout=10)
+2026-02-12 01:52:44,757 - INFO - Aguardando 4 segundos antes de tentar novamente...
+2026-02-12 01:52:45,054 - ERROR - Erro na tentativa 2 de 3: HTTPSConnectionPool(host='m3u4u.com', port=443): Read timed out. (read timeout=10)
+2026-02-12 01:52:45,054 - INFO - Aguardando 4 segundos antes de tentar novamente...
+2026-02-12 01:52:48,355 - INFO - Tentativa 3 de 3: Baixando de: https://m3u4u.com/epg/3wk1y24kx7uzdevxygz7
+2026-02-12 01:52:48,761 - INFO - Tentativa 3 de 3: Baixando de: https://m3u4u.com/epg/782dyqdrqkh1xegen4zp
+2026-02-12 01:52:49,059 - INFO - Tentativa 3 de 3: Baixando de: https://m3u4u.com/epg/jq2zy9epr3bwxmgwyxr5
+2026-02-12 01:52:58,427 - ERROR - Erro na tentativa 3 de 3: HTTPSConnectionPool(host='m3u4u.com', port=443): Read timed out. (read timeout=10)
+2026-02-12 01:52:58,427 - ERROR - Falha após 3 tentativas: https://m3u4u.com/epg/3wk1y24kx7uzdevxygz7
+2026-02-12 01:52:58,837 - ERROR - Erro na tentativa 3 de 3: HTTPSConnectionPool(host='m3u4u.com', port=443): Read timed out. (read timeout=10)
+2026-02-12 01:52:58,837 - ERROR - Falha após 3 tentativas: https://m3u4u.com/epg/782dyqdrqkh1xegen4zp
+2026-02-12 01:52:59,129 - ERROR - Erro na tentativa 3 de 3: HTTPSConnectionPool(host='m3u4u.com', port=443): Read timed out. (read timeout=10)
+2026-02-12 01:52:59,129 - ERROR - Falha após 3 tentativas: https://m3u4u.com/epg/jq2zy9epr3bwxmgwyxr5
+2026-02-12 01:52:59,130 - INFO - Downloads concluídos. Sucessos: 9, Falhas: 3
+2026-02-12 01:52:59,130 - WARNING - Atenção: 3 arquivos falharam no download
