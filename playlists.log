@@ -1,0 +1,76 @@
+2026-02-13 04:47:09,962 - INFO - Limpando arquivos antigos em /home/runner/work/josielluziptv/josielluziptv...
+2026-02-13 04:47:09,963 - INFO - Arquivo removido: brazil3.xml.gz
+2026-02-13 04:47:09,963 - INFO - Arquivo removido: brazil1.xml.gz
+2026-02-13 04:47:09,963 - INFO - Arquivo removido: portugal2.xml.gz
+2026-02-13 04:47:09,964 - INFO - Arquivo removido: epg_ripper_BR1.xml.gz
+2026-02-13 04:47:09,964 - INFO - Arquivo removido: portugal1.xml.gz
+2026-02-13 04:47:09,964 - INFO - Arquivo removido: epg_ripper_PT1.xml.gz
+2026-02-13 04:47:09,964 - INFO - Arquivo removido: brazil2.xml.gz
+2026-02-13 04:47:09,965 - INFO - Arquivo removido: brazil4.xml.gz
+2026-02-13 04:47:09,965 - INFO - Arquivo removido: playlist.m3u
+2026-02-13 04:47:09,965 - INFO - Iniciando downloads...
+2026-02-13 04:47:09,965 - INFO - Tentativa 1 de 3: Baixando de: https://raw.githubusercontent.com/josieljefferson/josieljefferson.github.io/refs/heads/main/playlists/playlist.m3u
+2026-02-13 04:47:09,966 - INFO - Tentativa 1 de 3: Baixando de: https://www.open-epg.com/files/brazil1.xml.gz
+2026-02-13 04:47:09,966 - INFO - Tentativa 1 de 3: Baixando de: https://www.open-epg.com/files/brazil2.xml.gz
+2026-02-13 04:47:09,967 - INFO - Tentativa 1 de 3: Baixando de: https://www.open-epg.com/files/brazil3.xml.gz
+2026-02-13 04:47:09,968 - INFO - Tentativa 1 de 3: Baixando de: https://www.open-epg.com/files/brazil4.xml.gz
+2026-02-13 04:47:10,151 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/playlist.m3u (70795 bytes)
+2026-02-13 04:47:10,152 - INFO - Hash MD5 do arquivo: 2c087d63a0417aff6380561f76163af0
+2026-02-13 04:47:10,152 - INFO - Tentativa 1 de 3: Baixando de: https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz
+2026-02-13 04:47:10,207 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/epg_ripper_BR1.xml.gz (1442489 bytes)
+2026-02-13 04:47:10,210 - INFO - Hash MD5 do arquivo: da659b4dc9d3fb446882fbb0d8a977ff
+2026-02-13 04:47:10,211 - INFO - Tentativa 1 de 3: Baixando de: https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz
+2026-02-13 04:47:10,250 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/epg_ripper_PT1.xml.gz (1477524 bytes)
+2026-02-13 04:47:10,252 - INFO - Hash MD5 do arquivo: 0ed199d8f37753d20bf16529ae514444
+2026-02-13 04:47:10,253 - INFO - Tentativa 1 de 3: Baixando de: https://m3u4u.com/epg/3wk1y24kx7uzdevxygz7
+2026-02-13 04:47:10,304 - ERROR - Falha ao baixar https://m3u4u.com/epg/3wk1y24kx7uzdevxygz7. Código: 503
+2026-02-13 04:47:10,305 - ERROR - Erro na tentativa 1 de 3: Falha ao baixar https://m3u4u.com/epg/3wk1y24kx7uzdevxygz7. Código: 503
+2026-02-13 04:47:10,305 - INFO - Aguardando 2 segundos antes de tentar novamente...
+2026-02-13 04:47:11,023 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/brazil2.xml.gz (67190 bytes)
+2026-02-13 04:47:11,024 - INFO - Hash MD5 do arquivo: 407688bb346cab335a9801173da0e2f7
+2026-02-13 04:47:11,024 - INFO - Tentativa 1 de 3: Baixando de: https://m3u4u.com/epg/782dyqdrqkh1xegen4zp
+2026-02-13 04:47:11,060 - ERROR - Falha ao baixar https://m3u4u.com/epg/782dyqdrqkh1xegen4zp. Código: 503
+2026-02-13 04:47:11,060 - ERROR - Erro na tentativa 1 de 3: Falha ao baixar https://m3u4u.com/epg/782dyqdrqkh1xegen4zp. Código: 503
+2026-02-13 04:47:11,060 - INFO - Aguardando 2 segundos antes de tentar novamente...
+2026-02-13 04:47:11,423 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/brazil4.xml.gz (625143 bytes)
+2026-02-13 04:47:11,424 - INFO - Hash MD5 do arquivo: fb4e94c8d2af1f1d9e6ab78e726be70b
+2026-02-13 04:47:11,425 - INFO - Tentativa 1 de 3: Baixando de: https://m3u4u.com/epg/jq2zy9epr3bwxmgwyxr5
+2026-02-13 04:47:11,458 - ERROR - Falha ao baixar https://m3u4u.com/epg/jq2zy9epr3bwxmgwyxr5. Código: 503
+2026-02-13 04:47:11,458 - ERROR - Erro na tentativa 1 de 3: Falha ao baixar https://m3u4u.com/epg/jq2zy9epr3bwxmgwyxr5. Código: 503
+2026-02-13 04:47:11,458 - INFO - Aguardando 2 segundos antes de tentar novamente...
+2026-02-13 04:47:11,471 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/brazil3.xml.gz (560932 bytes)
+2026-02-13 04:47:11,473 - INFO - Hash MD5 do arquivo: 45240c9a32e0209052f46e32aa19f416
+2026-02-13 04:47:11,473 - INFO - Tentativa 1 de 3: Baixando de: https://www.open-epg.com/files/portugal1.xml.gz
+2026-02-13 04:47:11,509 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/brazil1.xml.gz (884944 bytes)
+2026-02-13 04:47:11,511 - INFO - Hash MD5 do arquivo: 957d9a5f3113443a83a534da9fd31c9d
+2026-02-13 04:47:11,511 - INFO - Tentativa 1 de 3: Baixando de: https://www.open-epg.com/files/portugal2.xml.gz
+2026-02-13 04:47:12,307 - INFO - Tentativa 2 de 3: Baixando de: https://m3u4u.com/epg/3wk1y24kx7uzdevxygz7
+2026-02-13 04:47:12,347 - ERROR - Falha ao baixar https://m3u4u.com/epg/3wk1y24kx7uzdevxygz7. Código: 503
+2026-02-13 04:47:12,347 - ERROR - Erro na tentativa 2 de 3: Falha ao baixar https://m3u4u.com/epg/3wk1y24kx7uzdevxygz7. Código: 503
+2026-02-13 04:47:12,347 - INFO - Aguardando 4 segundos antes de tentar novamente...
+2026-02-13 04:47:12,964 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/portugal1.xml.gz (592343 bytes)
+2026-02-13 04:47:12,965 - INFO - Hash MD5 do arquivo: 4508014e4378d81cf0a8385a3af9ef70
+2026-02-13 04:47:13,062 - INFO - Tentativa 2 de 3: Baixando de: https://m3u4u.com/epg/782dyqdrqkh1xegen4zp
+2026-02-13 04:47:13,101 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/portugal2.xml.gz (609959 bytes)
+2026-02-13 04:47:13,102 - INFO - Hash MD5 do arquivo: d3c4c77a5951d8ea2e26b491e3c1f13c
+2026-02-13 04:47:13,103 - ERROR - Falha ao baixar https://m3u4u.com/epg/782dyqdrqkh1xegen4zp. Código: 503
+2026-02-13 04:47:13,104 - ERROR - Erro na tentativa 2 de 3: Falha ao baixar https://m3u4u.com/epg/782dyqdrqkh1xegen4zp. Código: 503
+2026-02-13 04:47:13,104 - INFO - Aguardando 4 segundos antes de tentar novamente...
+2026-02-13 04:47:13,461 - INFO - Tentativa 2 de 3: Baixando de: https://m3u4u.com/epg/jq2zy9epr3bwxmgwyxr5
+2026-02-13 04:47:13,495 - ERROR - Falha ao baixar https://m3u4u.com/epg/jq2zy9epr3bwxmgwyxr5. Código: 503
+2026-02-13 04:47:13,495 - ERROR - Erro na tentativa 2 de 3: Falha ao baixar https://m3u4u.com/epg/jq2zy9epr3bwxmgwyxr5. Código: 503
+2026-02-13 04:47:13,495 - INFO - Aguardando 4 segundos antes de tentar novamente...
+2026-02-13 04:47:16,351 - INFO - Tentativa 3 de 3: Baixando de: https://m3u4u.com/epg/3wk1y24kx7uzdevxygz7
+2026-02-13 04:47:16,386 - ERROR - Falha ao baixar https://m3u4u.com/epg/3wk1y24kx7uzdevxygz7. Código: 503
+2026-02-13 04:47:16,386 - ERROR - Erro na tentativa 3 de 3: Falha ao baixar https://m3u4u.com/epg/3wk1y24kx7uzdevxygz7. Código: 503
+2026-02-13 04:47:16,386 - ERROR - Falha após 3 tentativas: https://m3u4u.com/epg/3wk1y24kx7uzdevxygz7
+2026-02-13 04:47:17,106 - INFO - Tentativa 3 de 3: Baixando de: https://m3u4u.com/epg/782dyqdrqkh1xegen4zp
+2026-02-13 04:47:17,139 - ERROR - Falha ao baixar https://m3u4u.com/epg/782dyqdrqkh1xegen4zp. Código: 503
+2026-02-13 04:47:17,139 - ERROR - Erro na tentativa 3 de 3: Falha ao baixar https://m3u4u.com/epg/782dyqdrqkh1xegen4zp. Código: 503
+2026-02-13 04:47:17,139 - ERROR - Falha após 3 tentativas: https://m3u4u.com/epg/782dyqdrqkh1xegen4zp
+2026-02-13 04:47:17,499 - INFO - Tentativa 3 de 3: Baixando de: https://m3u4u.com/epg/jq2zy9epr3bwxmgwyxr5
+2026-02-13 04:47:17,547 - ERROR - Falha ao baixar https://m3u4u.com/epg/jq2zy9epr3bwxmgwyxr5. Código: 503
+2026-02-13 04:47:17,547 - ERROR - Erro na tentativa 3 de 3: Falha ao baixar https://m3u4u.com/epg/jq2zy9epr3bwxmgwyxr5. Código: 503
+2026-02-13 04:47:17,547 - ERROR - Falha após 3 tentativas: https://m3u4u.com/epg/jq2zy9epr3bwxmgwyxr5
+2026-02-13 04:47:17,547 - INFO - Downloads concluídos. Sucessos: 9, Falhas: 3
+2026-02-13 04:47:17,548 - WARNING - Atenção: 3 arquivos falharam no download
