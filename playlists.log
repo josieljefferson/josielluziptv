@@ -1,0 +1,88 @@
+2026-03-02 01:43:19,543 - INFO - Limpando arquivos antigos em /home/runner/work/josielluziptv/josielluziptv...
+2026-03-02 01:43:19,544 - INFO - Arquivo removido: brazil3.xml.gz
+2026-03-02 01:43:19,544 - INFO - Arquivo removido: brazil1.xml.gz
+2026-03-02 01:43:19,544 - INFO - Arquivo removido: portugal2.xml.gz
+2026-03-02 01:43:19,544 - INFO - Arquivo removido: epg_ripper_BR1.xml.gz
+2026-03-02 01:43:19,545 - INFO - Arquivo removido: epgbrasil.xml.gz
+2026-03-02 01:43:19,545 - INFO - Arquivo removido: portugal1.xml.gz
+2026-03-02 01:43:19,545 - INFO - Arquivo removido: epg_ripper_PT1.xml.gz
+2026-03-02 01:43:19,545 - INFO - Arquivo removido: brazil2.xml.gz
+2026-03-02 01:43:19,545 - INFO - Arquivo removido: brazil4.xml.gz
+2026-03-02 01:43:19,545 - INFO - Arquivo removido: epgbrasilportugal.xml.gz
+2026-03-02 01:43:19,546 - INFO - Arquivo removido: epgportugal.xml.gz
+2026-03-02 01:43:19,546 - INFO - Arquivo removido: playlist.m3u
+2026-03-02 01:43:19,546 - INFO - Iniciando downloads...
+2026-03-02 01:43:19,546 - INFO - Tentativa 1 de 3: Baixando de: https://raw.githubusercontent.com/josieljefferson/josieljefferson.github.io/refs/heads/main/playlists/playlist.m3u
+2026-03-02 01:43:19,546 - INFO - Tentativa 1 de 3: Baixando de: https://www.open-epg.com/files/brazil1.xml.gz
+2026-03-02 01:43:19,547 - INFO - Tentativa 1 de 3: Baixando de: https://www.open-epg.com/files/brazil2.xml.gz
+2026-03-02 01:43:19,550 - INFO - Tentativa 1 de 3: Baixando de: https://www.open-epg.com/files/brazil3.xml.gz
+2026-03-02 01:43:19,551 - INFO - Tentativa 1 de 3: Baixando de: https://www.open-epg.com/files/brazil4.xml.gz
+2026-03-02 01:43:19,726 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/playlist.m3u (70795 bytes)
+2026-03-02 01:43:19,726 - INFO - Hash MD5 do arquivo: 2c087d63a0417aff6380561f76163af0
+2026-03-02 01:43:19,727 - INFO - Tentativa 1 de 3: Baixando de: https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz
+2026-03-02 01:43:19,816 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/epg_ripper_BR1.xml.gz (1465088 bytes)
+2026-03-02 01:43:19,818 - INFO - Hash MD5 do arquivo: 00312f9935abddb82055661d756c228c
+2026-03-02 01:43:19,819 - INFO - Tentativa 1 de 3: Baixando de: https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz
+2026-03-02 01:43:19,881 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/epg_ripper_PT1.xml.gz (1457176 bytes)
+2026-03-02 01:43:19,883 - INFO - Hash MD5 do arquivo: bf12407fcea0e3dbb0a371ee1cf47674
+2026-03-02 01:43:19,884 - INFO - Tentativa 1 de 3: Baixando de: https://m3u4u.com/epg/3wk1y24kx7uzdevxygz7
+2026-03-02 01:43:21,400 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/epgbrasil.xml.gz (820871 bytes)
+2026-03-02 01:43:21,401 - INFO - Hash MD5 do arquivo: 9ca3b76145d0fd8d2108480dbf9862e2
+2026-03-02 01:43:21,402 - INFO - Tentativa 1 de 3: Baixando de: https://m3u4u.com/epg/782dyqdrqkh1xegen4zp
+2026-03-02 01:43:22,489 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/epgbrasilportugal.xml.gz (53572 bytes)
+2026-03-02 01:43:22,489 - INFO - Hash MD5 do arquivo: 9e8c3d6cd2478bc12bc8bd20ef3cbce8
+2026-03-02 01:43:22,490 - INFO - Tentativa 1 de 3: Baixando de: https://m3u4u.com/epg/jq2zy9epr3bwxmgwyxr5
+2026-03-02 01:43:23,752 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/epgportugal.xml.gz (1943255 bytes)
+2026-03-02 01:43:23,756 - INFO - Hash MD5 do arquivo: 9b6f9c682af938856be1bb2f878b8906
+2026-03-02 01:43:23,757 - INFO - Tentativa 1 de 3: Baixando de: https://www.open-epg.com/files/portugal1.xml.gz
+2026-03-02 01:43:29,597 - ERROR - Erro na tentativa 1 de 3: HTTPSConnectionPool(host='www.open-epg.com', port=443): Max retries exceeded with url: /files/brazil4.xml.gz (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.open-epg.com', port=443) at 0x7f8d09988490>, 'Connection to www.open-epg.com timed out. (connect timeout=10)'))
+2026-03-02 01:43:29,597 - ERROR - Erro na tentativa 1 de 3: HTTPSConnectionPool(host='www.open-epg.com', port=443): Max retries exceeded with url: /files/brazil2.xml.gz (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.open-epg.com', port=443) at 0x7f8d09989180>, 'Connection to www.open-epg.com timed out. (connect timeout=10)'))
+2026-03-02 01:43:29,597 - ERROR - Erro na tentativa 1 de 3: HTTPSConnectionPool(host='www.open-epg.com', port=443): Max retries exceeded with url: /files/brazil3.xml.gz (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.open-epg.com', port=443) at 0x7f8d09989750>, 'Connection to www.open-epg.com timed out. (connect timeout=10)'))
+2026-03-02 01:43:29,598 - ERROR - Erro na tentativa 1 de 3: HTTPSConnectionPool(host='www.open-epg.com', port=443): Max retries exceeded with url: /files/brazil1.xml.gz (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.open-epg.com', port=443) at 0x7f8d0998a020>, 'Connection to www.open-epg.com timed out. (connect timeout=10)'))
+2026-03-02 01:43:29,598 - INFO - Aguardando 2 segundos antes de tentar novamente...
+2026-03-02 01:43:29,598 - INFO - Aguardando 2 segundos antes de tentar novamente...
+2026-03-02 01:43:29,598 - INFO - Aguardando 2 segundos antes de tentar novamente...
+2026-03-02 01:43:29,598 - INFO - Aguardando 2 segundos antes de tentar novamente...
+2026-03-02 01:43:31,601 - INFO - Tentativa 2 de 3: Baixando de: https://www.open-epg.com/files/brazil4.xml.gz
+2026-03-02 01:43:31,601 - INFO - Tentativa 2 de 3: Baixando de: https://www.open-epg.com/files/brazil1.xml.gz
+2026-03-02 01:43:31,601 - INFO - Tentativa 2 de 3: Baixando de: https://www.open-epg.com/files/brazil2.xml.gz
+2026-03-02 01:43:31,601 - INFO - Tentativa 2 de 3: Baixando de: https://www.open-epg.com/files/brazil3.xml.gz
+2026-03-02 01:43:33,806 - ERROR - Erro na tentativa 1 de 3: HTTPSConnectionPool(host='www.open-epg.com', port=443): Max retries exceeded with url: /files/portugal1.xml.gz (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.open-epg.com', port=443) at 0x7f8d0888d6c0>, 'Connection to www.open-epg.com timed out. (connect timeout=10)'))
+2026-03-02 01:43:33,807 - INFO - Aguardando 2 segundos antes de tentar novamente...
+2026-03-02 01:43:35,809 - INFO - Tentativa 2 de 3: Baixando de: https://www.open-epg.com/files/portugal1.xml.gz
+2026-03-02 01:43:41,651 - ERROR - Erro na tentativa 2 de 3: HTTPSConnectionPool(host='www.open-epg.com', port=443): Max retries exceeded with url: /files/brazil3.xml.gz (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.open-epg.com', port=443) at 0x7f8d0888eaa0>, 'Connection to www.open-epg.com timed out. (connect timeout=10)'))
+2026-03-02 01:43:41,652 - ERROR - Erro na tentativa 2 de 3: HTTPSConnectionPool(host='www.open-epg.com', port=443): Max retries exceeded with url: /files/brazil1.xml.gz (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.open-epg.com', port=443) at 0x7f8d0888c7c0>, 'Connection to www.open-epg.com timed out. (connect timeout=10)'))
+2026-03-02 01:43:41,652 - ERROR - Erro na tentativa 2 de 3: HTTPSConnectionPool(host='www.open-epg.com', port=443): Max retries exceeded with url: /files/brazil4.xml.gz (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.open-epg.com', port=443) at 0x7f8d0888ec50>, 'Connection to www.open-epg.com timed out. (connect timeout=10)'))
+2026-03-02 01:43:41,652 - ERROR - Erro na tentativa 2 de 3: HTTPSConnectionPool(host='www.open-epg.com', port=443): Max retries exceeded with url: /files/brazil2.xml.gz (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.open-epg.com', port=443) at 0x7f8d0888e2f0>, 'Connection to www.open-epg.com timed out. (connect timeout=10)'))
+2026-03-02 01:43:41,652 - INFO - Aguardando 4 segundos antes de tentar novamente...
+2026-03-02 01:43:41,652 - INFO - Aguardando 4 segundos antes de tentar novamente...
+2026-03-02 01:43:41,652 - INFO - Aguardando 4 segundos antes de tentar novamente...
+2026-03-02 01:43:41,652 - INFO - Aguardando 4 segundos antes de tentar novamente...
+2026-03-02 01:43:45,654 - INFO - Tentativa 3 de 3: Baixando de: https://www.open-epg.com/files/brazil3.xml.gz
+2026-03-02 01:43:45,655 - INFO - Tentativa 3 de 3: Baixando de: https://www.open-epg.com/files/brazil1.xml.gz
+2026-03-02 01:43:45,656 - INFO - Tentativa 3 de 3: Baixando de: https://www.open-epg.com/files/brazil2.xml.gz
+2026-03-02 01:43:45,656 - INFO - Tentativa 3 de 3: Baixando de: https://www.open-epg.com/files/brazil4.xml.gz
+2026-03-02 01:43:45,824 - ERROR - Erro na tentativa 2 de 3: HTTPSConnectionPool(host='www.open-epg.com', port=443): Max retries exceeded with url: /files/portugal1.xml.gz (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.open-epg.com', port=443) at 0x7f8d0998a050>, 'Connection to www.open-epg.com timed out. (connect timeout=10)'))
+2026-03-02 01:43:45,824 - INFO - Aguardando 4 segundos antes de tentar novamente...
+2026-03-02 01:43:49,829 - INFO - Tentativa 3 de 3: Baixando de: https://www.open-epg.com/files/portugal1.xml.gz
+2026-03-02 01:43:55,661 - ERROR - Erro na tentativa 3 de 3: HTTPSConnectionPool(host='www.open-epg.com', port=443): Max retries exceeded with url: /files/brazil3.xml.gz (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.open-epg.com', port=443) at 0x7f8d0998bca0>, 'Connection to www.open-epg.com timed out. (connect timeout=10)'))
+2026-03-02 01:43:55,661 - ERROR - Falha após 3 tentativas: https://www.open-epg.com/files/brazil3.xml.gz
+2026-03-02 01:43:55,661 - INFO - Tentativa 1 de 3: Baixando de: https://www.open-epg.com/files/portugal2.xml.gz
+2026-03-02 01:43:55,664 - ERROR - Erro na tentativa 3 de 3: HTTPSConnectionPool(host='www.open-epg.com', port=443): Max retries exceeded with url: /files/brazil1.xml.gz (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.open-epg.com', port=443) at 0x7f8d09988e80>, 'Connection to www.open-epg.com timed out. (connect timeout=10)'))
+2026-03-02 01:43:55,664 - ERROR - Falha após 3 tentativas: https://www.open-epg.com/files/brazil1.xml.gz
+2026-03-02 01:43:55,670 - ERROR - Erro na tentativa 3 de 3: HTTPSConnectionPool(host='www.open-epg.com', port=443): Max retries exceeded with url: /files/brazil2.xml.gz (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.open-epg.com', port=443) at 0x7f8d09b53100>, 'Connection to www.open-epg.com timed out. (connect timeout=10)'))
+2026-03-02 01:43:55,670 - ERROR - Erro na tentativa 3 de 3: HTTPSConnectionPool(host='www.open-epg.com', port=443): Max retries exceeded with url: /files/brazil4.xml.gz (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.open-epg.com', port=443) at 0x7f8d0888d570>, 'Connection to www.open-epg.com timed out. (connect timeout=10)'))
+2026-03-02 01:43:55,671 - ERROR - Falha após 3 tentativas: https://www.open-epg.com/files/brazil2.xml.gz
+2026-03-02 01:43:55,671 - ERROR - Falha após 3 tentativas: https://www.open-epg.com/files/brazil4.xml.gz
+2026-03-02 01:43:59,964 - ERROR - Erro na tentativa 3 de 3: HTTPSConnectionPool(host='www.open-epg.com', port=443): Max retries exceeded with url: /files/portugal1.xml.gz (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.open-epg.com', port=443) at 0x7f8d0998bbe0>, 'Connection to www.open-epg.com timed out. (connect timeout=10)'))
+2026-03-02 01:43:59,965 - ERROR - Falha após 3 tentativas: https://www.open-epg.com/files/portugal1.xml.gz
+2026-03-02 01:44:05,676 - ERROR - Erro na tentativa 1 de 3: HTTPSConnectionPool(host='www.open-epg.com', port=443): Max retries exceeded with url: /files/portugal2.xml.gz (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.open-epg.com', port=443) at 0x7f8d0888df00>, 'Connection to www.open-epg.com timed out. (connect timeout=10)'))
+2026-03-02 01:44:05,677 - INFO - Aguardando 2 segundos antes de tentar novamente...
+2026-03-02 01:44:07,679 - INFO - Tentativa 2 de 3: Baixando de: https://www.open-epg.com/files/portugal2.xml.gz
+2026-03-02 01:44:17,734 - ERROR - Erro na tentativa 2 de 3: HTTPSConnectionPool(host='www.open-epg.com', port=443): Max retries exceeded with url: /files/portugal2.xml.gz (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.open-epg.com', port=443) at 0x7f8d0888e0e0>, 'Connection to www.open-epg.com timed out. (connect timeout=10)'))
+2026-03-02 01:44:17,735 - INFO - Aguardando 4 segundos antes de tentar novamente...
+2026-03-02 01:44:21,739 - INFO - Tentativa 3 de 3: Baixando de: https://www.open-epg.com/files/portugal2.xml.gz
+2026-03-02 01:44:31,754 - ERROR - Erro na tentativa 3 de 3: HTTPSConnectionPool(host='www.open-epg.com', port=443): Max retries exceeded with url: /files/portugal2.xml.gz (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.open-epg.com', port=443) at 0x7f8d0888ec50>, 'Connection to www.open-epg.com timed out. (connect timeout=10)'))
+2026-03-02 01:44:31,754 - ERROR - Falha após 3 tentativas: https://www.open-epg.com/files/portugal2.xml.gz
+2026-03-02 01:44:31,754 - INFO - Downloads concluídos. Sucessos: 6, Falhas: 6
+2026-03-02 01:44:31,755 - WARNING - Atenção: 6 arquivos falharam no download
