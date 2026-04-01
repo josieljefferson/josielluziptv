@@ -1,0 +1,51 @@
+2026-04-01 05:15:09,428 - INFO - Limpando arquivos antigos em /home/runner/work/josielluziptv/josielluziptv...
+2026-04-01 05:15:09,428 - INFO - Arquivo removido: epgbrasilportugal.xml.gz
+2026-04-01 05:15:09,429 - INFO - Arquivo removido: epg_ripper_PT1.xml.gz
+2026-04-01 05:15:09,429 - INFO - Arquivo removido: epg_ripper_BR1.xml.gz
+2026-04-01 05:15:09,429 - INFO - Arquivo removido: brazil3.xml.gz
+2026-04-01 05:15:09,429 - INFO - Arquivo removido: portugal1.xml.gz
+2026-04-01 05:15:09,430 - INFO - Arquivo removido: epgportugal.xml.gz
+2026-04-01 05:15:09,430 - INFO - Arquivo removido: brazil4.xml.gz
+2026-04-01 05:15:09,430 - INFO - Arquivo removido: portugal2.xml.gz
+2026-04-01 05:15:09,430 - INFO - Arquivo removido: brazil1.xml.gz
+2026-04-01 05:15:09,431 - INFO - Arquivo removido: brazil2.xml.gz
+2026-04-01 05:15:09,431 - INFO - Arquivo removido: epgbrasil.xml.gz
+2026-04-01 05:15:09,431 - INFO - Arquivo removido: playlist.m3u
+2026-04-01 05:15:09,431 - INFO - Iniciando downloads...
+2026-04-01 05:15:09,431 - INFO - Tentativa 1 de 3: Baixando de: https://raw.githubusercontent.com/josieljefferson/josieljefferson.github.io/refs/heads/main/playlists/playlist.m3u
+2026-04-01 05:15:09,432 - INFO - Tentativa 1 de 3: Baixando de: https://www.open-epg.com/files/brazil1.xml.gz
+2026-04-01 05:15:09,432 - INFO - Tentativa 1 de 3: Baixando de: https://www.open-epg.com/files/brazil2.xml.gz
+2026-04-01 05:15:09,433 - INFO - Tentativa 1 de 3: Baixando de: https://www.open-epg.com/files/brazil3.xml.gz
+2026-04-01 05:15:09,433 - INFO - Tentativa 1 de 3: Baixando de: https://www.open-epg.com/files/brazil4.xml.gz
+2026-04-01 05:15:09,594 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/playlist.m3u (70795 bytes)
+2026-04-01 05:15:09,594 - INFO - Hash MD5 do arquivo: 2c087d63a0417aff6380561f76163af0
+2026-04-01 05:15:09,595 - INFO - Tentativa 1 de 3: Baixando de: https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz
+2026-04-01 05:15:09,704 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/epg_ripper_BR1.xml.gz (1405646 bytes)
+2026-04-01 05:15:09,707 - INFO - Hash MD5 do arquivo: 722f36fdbb97f0aabbd0ad972f2eb96f
+2026-04-01 05:15:09,707 - INFO - Tentativa 1 de 3: Baixando de: https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz
+2026-04-01 05:15:09,795 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/epg_ripper_PT1.xml.gz (1399841 bytes)
+2026-04-01 05:15:09,799 - INFO - Hash MD5 do arquivo: ea66f3668501c4fcb63447b7fb752fc9
+2026-04-01 05:15:09,799 - INFO - Tentativa 1 de 3: Baixando de: https://m3u4u.com/epg/3wk1y24kx7uzdevxygz7
+2026-04-01 05:15:10,152 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/brazil2.xml.gz (68876 bytes)
+2026-04-01 05:15:10,152 - INFO - Hash MD5 do arquivo: 20f039dcd6e57bab07509f7c8761cca3
+2026-04-01 05:15:10,153 - INFO - Tentativa 1 de 3: Baixando de: https://m3u4u.com/epg/782dyqdrqkh1xegen4zp
+2026-04-01 05:15:10,570 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/brazil3.xml.gz (558824 bytes)
+2026-04-01 05:15:10,571 - INFO - Hash MD5 do arquivo: bad53d59acc277ee62a4953a0e9058e3
+2026-04-01 05:15:10,571 - INFO - Tentativa 1 de 3: Baixando de: https://m3u4u.com/epg/jq2zy9epr3bwxmgwyxr5
+2026-04-01 05:15:10,596 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/brazil4.xml.gz (599267 bytes)
+2026-04-01 05:15:10,597 - INFO - Hash MD5 do arquivo: 95ee9dba826f5296c4374ea4ff789926
+2026-04-01 05:15:10,598 - INFO - Tentativa 1 de 3: Baixando de: https://www.open-epg.com/files/portugal1.xml.gz
+2026-04-01 05:15:10,703 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/brazil1.xml.gz (861339 bytes)
+2026-04-01 05:15:10,705 - INFO - Hash MD5 do arquivo: 135297d3c95e08c710a9dca435a33de8
+2026-04-01 05:15:10,705 - INFO - Tentativa 1 de 3: Baixando de: https://www.open-epg.com/files/portugal2.xml.gz
+2026-04-01 05:15:11,311 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/epgbrasilportugal.xml.gz (530410 bytes)
+2026-04-01 05:15:11,313 - INFO - Hash MD5 do arquivo: e99eb6dd108aad6693c50a0d69cc3653
+2026-04-01 05:15:11,329 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/epgbrasil.xml.gz (800611 bytes)
+2026-04-01 05:15:11,330 - INFO - Hash MD5 do arquivo: c0f7f3ba97cbb55333338a01fa1e5b96
+2026-04-01 05:15:11,675 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/portugal2.xml.gz (584326 bytes)
+2026-04-01 05:15:11,676 - INFO - Hash MD5 do arquivo: a6cad871a7cab18c657a90eef2cea7ea
+2026-04-01 05:15:11,700 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/portugal1.xml.gz (549116 bytes)
+2026-04-01 05:15:11,701 - INFO - Hash MD5 do arquivo: 66285c2a87fbbfca490c27c3a4cbee7b
+2026-04-01 05:15:12,035 - INFO - Download concluído: /home/runner/work/josielluziptv/josielluziptv/epgportugal.xml.gz (1796387 bytes)
+2026-04-01 05:15:12,038 - INFO - Hash MD5 do arquivo: 918923389af9458dc13da80dd4c74574
+2026-04-01 05:15:12,039 - INFO - Downloads concluídos. Sucessos: 12, Falhas: 0
